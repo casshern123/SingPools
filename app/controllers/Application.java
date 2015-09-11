@@ -104,7 +104,7 @@ public class Application extends Controller {
 		//object has been updated with ID populated in DB
 		//just use it to return
 		
-		return ok("Bet has been posted!OK!");
+		return ok("Bet has been posted!");
 	}
 	
 	public Result login()
